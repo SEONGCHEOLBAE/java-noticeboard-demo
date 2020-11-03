@@ -47,3 +47,4 @@
   - Write `Feature Spec`, `Dev Spec`
 
 # Screens
+<img width="80" alt="1" src="https://user-images.githubusercontent.com/11939841/97976068-7322ca00-1e0d-11eb-8dfc-4a8dc740ec3a.png">
